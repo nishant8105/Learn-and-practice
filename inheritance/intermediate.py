@@ -150,7 +150,7 @@ class Student(Person):
     
     def get_info(self):
         print(f'''
-Nmae : {self.name}
+Name : {self.name}
 Age :{self.age} year
 Roll No. : {self.roll_no}
 Marks : {self.marks}''')
