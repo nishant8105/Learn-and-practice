@@ -1,0 +1,10 @@
+# file = open('sample.txt' , 'rt')
+# print(file)
+# # file.write("This file is writen using FIle I/O\n")
+# # file.write("Next line")
+# content1 = file.readline()
+# content2 = file.readline()
+# file.close()
+# print(content1)
+# print(content2)
+
