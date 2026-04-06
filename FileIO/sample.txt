@@ -1,2 +1,5 @@
-This file is writen using FIle I/O
-Next line
+Hello, this is a test file.
+We are learning file handling in Python.
+This file contains multiple lines of text.
+Each line will help demonstrate different file operations.
+Practice makes perfect when it comes to programming.
