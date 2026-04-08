@@ -113,3 +113,4 @@ print(chi2_df)
 
 final_df = df_clean[['age', 'is_female', 'bmi', 'children', 'is_smoker', 'charges','region_southeast' , 'bmi_category_Obese']]
 print(final_df.head())
+final_df.to_csv('clean_insurance.csv', index=False, encoding='utf-8')
