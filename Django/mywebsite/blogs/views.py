@@ -4,7 +4,7 @@ from django.http import HttpResponse, HttpResponseNotFound
 # Create your views here.
 
 def home_page(request):
-    return HttpResponse('Home page of our blogs')
+    return HttpResponse('<h1>Home page of our blogs<h1>')
 
 def blogposts(request):
     return HttpResponse("All blog posts")
